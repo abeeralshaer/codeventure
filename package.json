@@ -2,7 +2,7 @@
   "name": "codeventure",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://abeerels.gitlab.io/codeventure",
+  "homepage": "https://abeeralshaer.github.io/codeventure/",
   "dependencies": {
     "antd": "^3.19.8",
     "react": "^16.8.6",
