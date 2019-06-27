@@ -1,6 +1,4 @@
-
 image: node:8.10.0 # can be upgraded, depending on your node version used
-image: node:7.9.0 # change to match your node version
 
 cache:
   paths:
