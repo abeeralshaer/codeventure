@@ -5,10 +5,10 @@ import "antd/dist/antd.css";
 const { Header, Footer, Content } = Layout;
 function App() {
   return (
-    <Layout>
-      <Header />
-      <Content />
-      <Footer />
+    <Layout style={{ minHeight: "100vh" }}>
+      <Header>Header</Header>
+      <Content style={{ backgroundColor: "pink" }}>Content</Content>
+      <Footer>Footer</Footer>
     </Layout>
   );
 }
